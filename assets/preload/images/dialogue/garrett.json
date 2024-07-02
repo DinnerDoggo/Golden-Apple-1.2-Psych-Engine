@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		160
+	],
+	"scale": 1.85,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-11
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "garrett portrait0004",
+			"idle_name": "garrett portrait0004"
+		}
+	],
+	"image": "garrett"
+}

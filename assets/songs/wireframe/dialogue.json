@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "decdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ALRIGHT, THAT IS IT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "decdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO MORE FOOLING AROUND!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "decdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IF YOU THINK YOU CAN JUST BE HERE WITH NO CONSQUENSES..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "decdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU ARE DEAD WRONG!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "decdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THIS IS YOUR LAST CHANCE TO LEAVE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Howdy!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can I show you something?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Check this out!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I got lots o' phones!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Neat, huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ooh, is that a microphone?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you a singer?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bandu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wanna sing?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Brap"
+		}
+	]
+}

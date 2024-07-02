@@ -1,0 +1,121 @@
+{
+	"song": {
+		"events": [
+			[
+				37200,
+				[
+					[
+						"Opponent Fade",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Opponent Fade",
+						"2",
+						"0"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"butchatrix"
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				249600,
+				[
+					[
+						"Opponent Fade",
+						"2",
+						"0"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				288000,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"badtrix"
+					]
+				]
+			],
+			[
+				364800,
+				[
+					[
+						"Opponent Fade",
+						"2",
+						"0"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

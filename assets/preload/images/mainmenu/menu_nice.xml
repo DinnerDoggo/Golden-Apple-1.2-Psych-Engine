@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_nice.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nice basic0000" x="3348" y="2276" width="290" height="115"/>
+	<SubTexture name="nice basic0001" x="3348" y="2276" width="290" height="115"/>
+	<SubTexture name="nice basic0002" x="3348" y="2276" width="290" height="115"/>
+	<SubTexture name="nice basic0003" x="3648" y="2276" width="290" height="115"/>
+	<SubTexture name="nice basic0004" x="3648" y="2276" width="290" height="115"/>
+	<SubTexture name="nice basic0005" x="3648" y="2276" width="290" height="115"/>
+	<SubTexture name="nice basic0006" x="1891" y="2286" width="290" height="115"/>
+	<SubTexture name="nice basic0007" x="1891" y="2286" width="290" height="115"/>
+	<SubTexture name="nice basic0008" x="1891" y="2286" width="290" height="115"/>
+	<SubTexture name="nice white0000" x="2421" y="1123" width="360" height="143"/>
+	<SubTexture name="nice white0001" x="3552" y="2125" width="359" height="141" frameX="-1" frameY="-1" frameWidth="360" frameHeight="143"/>
+	<SubTexture name="nice white0002" x="1953" y="2137" width="359" height="139" frameX="-1" frameY="-1" frameWidth="360" frameHeight="143"/>
+</TextureAtlas>

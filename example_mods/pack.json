@@ -1,0 +1,7 @@
+{
+	"name": "Vs Dave And Bambi Golden Apple 1.2",
+	"description": "This is a port of the Golden Apple 1.2 Update",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [253, 253, 49]
+}

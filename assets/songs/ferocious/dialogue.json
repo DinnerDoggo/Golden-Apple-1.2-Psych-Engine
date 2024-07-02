@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garrett",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, hi! Welcome to my playhouse!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Breep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garrett",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nuh-uh-uh, you need to rap battle me before you can go through THOSE doors!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		}
+	]
+}

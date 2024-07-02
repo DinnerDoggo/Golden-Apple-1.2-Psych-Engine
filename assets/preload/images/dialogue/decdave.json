@@ -1,0 +1,24 @@
+{
+	"position": [
+		-20,
+		100
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "decdave",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-11
+			],
+			"anim": "talk",
+			"idle_name": "dave 3d wireframe portrait0004",
+			"loop_name": "dave 3d wireframe portrait0004"
+		}
+	]
+}
