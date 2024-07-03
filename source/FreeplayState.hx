@@ -68,17 +68,17 @@ class FreeplayState extends MusicBeatState
 				case '!':
 					addWeek(['Sugar Rush', 'Gift Card', 'The Big Dingle', 'Dale', 'Origin', 'Apprentice', 'Resumed', 'Ready Loud', 'Bookworm', 'Cuberoot', 'Alternate', 'Unhinged', 'Theft', 'Too Shiny'], 0, 0xFF4fff69, ['bandu', 'bandu', 'dingle', 'dale', 'bandu-origin', 'tristan', 'dambu', 'bandu', 'bookworm', 'disability', 'david', 'unhinged', 'garrett', 'diamond']);
 				case '!!':
-					addWeek(['Tantalum', 'Strawberry', 'Keyboard', 'Sillier'], 1, 0xFF4fff69, ['ringi', 'bambom', 'bendu', 'blogblez']);
+					addWeek(['Tantalum', 'Strawberry', 'Keyboard', 'Sillier'], 0, 0xFF4fff69, ['ringi', 'bambom', 'bendu', 'blogblez']);
 				case '!!!':
-					addWeek(['Wheels', 'poopers', 'The Boopadoop Song'], 2, 0xFF4fff69, ['wheels', 'awesome-son', 'cynda']);
+					addWeek(['Wheels', 'poopers', 'The Boopadoop Song'], 0, 0xFF4fff69, ['wheels', 'awesome-son', 'cynda']);
 				case '!!!!':
-				    addWeek(['Og', 'Sick Tricks', 'Galactic'], 3, 0xFF4fff69, ['prealpha', 'roblos', 'super']);
+				    addWeek(['Og', 'Sick Tricks', 'Galactic'], 0, 0xFF4fff69, ['prealpha', 'roblos', 'super']);
 				case '!!!!!':
-				    addWeek(['Cell', 'Ticking', 'Recovered Project', 'Dave X Bambi Shipping Cute'], 4, 0xFF4fff69, ['cell', 'ouch', 'recovered', 'dab']);
+				    addWeek(['Cell', 'Ticking', 'Recovered Project', 'Dave X Bambi Shipping Cute'], 0, 0xFF4fff69, ['cell', 'ouch', 'recovered', 'dab']);
 				case '!!!!!!':
-				    addWeek(['Slices', 'Poopers', 'Clit', 'Sweaty Workout', 'My Home', 'Cotton Candy', 'Balls', '2 Spheres', 'Jerry The Mouse', 'Threesome', 'Sit On My Face', 'Amongfairness', 'Reflection', 'Bug Eyed Bitch', 'Ny Tristan', 'Gobbledegook', 'Generic', 'Chilli Powder', 'Impregnate', 'Fuckity', 'Encrypted', 'Pink Bandu', 'Trampoline Accident', 'The Big Dingle', 'Locked Lips', 'Fl Keys', 'Bandu Radical', 'Pee Shooter', 'Third Chance', 'Second Coming Of The ', 'I Am Canonically Trans', 'Among Us Penis Sex', 'The Willy Walter Rap'], 5, 0xFF4fff69, ['bandu', 'brob', 'diamond', 'butch', 'hall-monitor', 'badai', 'bambom', 'leak-gf', 'underscore', 'face', 'gunk', 'sus', '3d-bf', 'decdave', '3d-tristan', 'leak-wtf', 'icons', 'chili_icons', 'scrub_icons', 'leak-ringonal', 'leak-encrypted', 'lullabandu', 'froing', 'dingle', 'junkers', 'charlie', 'radical-nambe', 'peashooter', 'sillycon-min-removebg-preview', 'clown', 'peensum', 'among', 'willy-walter']);
+				    addWeek(['Slices', 'Poopers', 'Clit', 'Sweaty Workout', 'My Home', 'Cotton Candy', 'Balls', '2 Spheres', 'Jerry The Mouse', 'Threesome', 'Sit On My Face', 'Amongfairness', 'Reflection', 'Bug Eyed Bitch', 'Ny Tristan', 'Gobbledegook', 'Generic', 'Chilli Powder', 'Impregnate', 'Fuckity', 'Encrypted', 'Pink Bandu', 'Trampoline Accident', 'The Big Dingle', 'Locked Lips', 'Fl Keys', 'Bandu Radical', 'Pee Shooter', 'Third Chance', 'Second Coming Of The ', 'I Am Canonically Trans', 'Among Us Penis Sex', 'The Willy Walter Rap'], 0, 0xFF4fff69, ['bandu', 'brob', 'diamond', 'butch', 'hall-monitor', 'badai', 'bambom', 'leak-gf', 'underscore', 'face', 'gunk', 'sus', '3d-bf', 'decdave', '3d-tristan', 'leak-wtf', 'icons', 'chili_icons', 'scrub_icons', 'leak-ringonal', 'leak-encrypted', 'lullabandu', 'froing', 'dingle', 'junkers', 'charlie', 'radical-nambe', 'peashooter', 'sillycon-min-removebg-preview', 'clown', 'peensum', 'among', 'willy-walter']);
 				case '!!!!!!!':
-				    addWeek(['Sunshine', 'Left Unchecked', 'Thunderstorm', 'Collision'], 6, 0xFF4fff69, ['doll', 'dave-unchecked', 'dave-png', 'diamond']);
+				    addWeek(['Sunshine', 'Left Unchecked', 'Thunderstorm', 'Collision'], 0, 0xFF4fff69, ['doll', 'dave-unchecked', 'dave-png', 'diamond']);
 			};
 
 		Paths.clearStoredMemory();
